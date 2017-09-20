@@ -24,3 +24,5 @@
 
 ## Table of contents
 
+1. [Python Brief Introduction](notebooks/01_brief_intro.ipynb)
+2. [Control Flow and Functions](notebooks/02_control_flow.ipynb)
