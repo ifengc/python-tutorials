@@ -25,5 +25,16 @@
 
 ## Table of contents
 
-1. [Python Brief Introduction](notebooks/01_brief_intro.ipynb)
-2. [Control Flow and Functions](notebooks/02_control_flow.ipynb)
+1. [Python Brief Introduction](notebooks/01_brief_intro.ipynb)   
+    1.1 Numbers   
+    1.2 Variables   
+    1.3 Strings   
+    1.4 List   
+2. [Control Flow and Functions](notebooks/02_control_flow.ipynb)  
+    2.1 Boolean Condition  
+    2.2 if Statements  
+    2.3 Loop: while Statements   
+    2.4 Loop: for Statements  
+    2.5 range() function  
+    2.6 break and continue  
+    2.7 functions  
