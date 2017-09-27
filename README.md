@@ -38,3 +38,9 @@
     2.5 range() function  
     2.6 break and continue  
     2.7 functions  
+3. [Data Structures](notebooks/03_data_structures.ipynb)  
+    3.1 More on Lists
+    3.2 Sets
+    3.3 Tuples
+    3.4 Dictionaries
+    3.5 Looping Techniques
