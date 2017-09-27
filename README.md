@@ -39,11 +39,11 @@
     2.6 break and continue  
     2.7 functions  
 3. [Data Structures](notebooks/03_data_structures.ipynb)  
-    3.1 More on Lists
-    3.2 Sets
-    3.3 Tuples
-    3.4 Dictionaries
-    3.5 Looping Techniques
+    3.1 More on Lists  
+    3.2 Sets  
+    3.3 Tuples  
+    3.4 Dictionaries  
+    3.5 Looping Techniques  
 4. [Data Structures](notebooks/04_input_output.ipynb)  
-    4.1 Output Formatting
-    4.2 Reading and Writing Files
+    4.1 Output Formatting  
+    4.2 Reading and Writing Files  
