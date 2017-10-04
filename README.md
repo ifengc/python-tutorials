@@ -51,3 +51,4 @@
 4. [Input and Output](notebooks/04_input_output.ipynb)  
     4.1 Output Formatting  
     4.2 Reading and Writing Files  
+    4.3 Regular Expressions
