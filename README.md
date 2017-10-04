@@ -45,6 +45,6 @@
     3.3 Tuples  
     3.4 Dictionaries  
     3.5 Looping Techniques  
-4. [Data Structures](notebooks/04_input_output.ipynb)  
+4. [Input and Output](notebooks/04_input_output.ipynb)  
     4.1 Output Formatting  
     4.2 Reading and Writing Files  
