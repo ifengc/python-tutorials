@@ -51,13 +51,13 @@
 4. [Input and Output](notebooks/04_input_output.ipynb)  
     4.1 Output Formatting  
     4.2 Reading and Writing Files  
-    4.3 Regular Expressions
-5. [Introduction of Pandas](notebooks/05_intro_of_pandas.ipynb)
-    5.1 Dataframe creation and data selection
-    5.2 Create dataframes from csv
-    5.3 Basic Statistics Analysis
-    5.4 Ploting
-    5.5 Finance Example
+    4.3 Regular Expressions  
+5. [Introduction of Pandas](notebooks/05_intro_of_pandas.ipynb)  
+    5.1 Dataframe creation and data selection  
+    5.2 Create dataframes from csv  
+    5.3 Basic Statistics Analysis  
+    5.4 Ploting  
+    5.5 Finance Example  
 
 ## Reference
 * [Python Software Foundation's tutorial](https://docs.python.org/3/tutorial/index.html)
